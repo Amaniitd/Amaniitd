@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am Aman Kumar, a final year student pursuing bachelor's in Computer Science at Indian Institute of Technology, Delhi.
+ 
+<p align="center">
+  <a href="https://github.com/GauravJain28">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amaniitd&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amaniitd&count_private=true&hide=html,css,Makefile&layout=compact&langs_count=10&theme=tokyonight"/>
+  </a>
+</p>
+ 
 <!--
 **Amaniitd/Amaniitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
