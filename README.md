@@ -5,7 +5,7 @@ I am Aman Kumar, a final year student pursuing bachelor's in Computer Science at
 <p align="center">
   <a href="https://github.com/Amaniitd">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amaniitd&count_private=true&show_icons=true&theme=onedark&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amaniitd&count_private=true&hide=html,css,Makefile&layout=compact&langs_count=12&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amaniitd&count_private=true&hide=html,css,Makefile&layout=compact&langs_count=10&theme=onedark"/>
   </a>
 </p>
  
